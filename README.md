@@ -48,6 +48,15 @@ This project involves creating an automated attendance system using Node MCU and
 3. **Monitor Attendance**:
    - Access the server to view real-time attendance data.
    - Use the data for record-keeping and analysis.
+![step 1](https://github.com/VanshikaDasari1710/Automated-Attendance-Through-WIFI-by-using-NODE-MCU/assets/100675376/a9476c19-e067-4003-a219-f117aad78b11)
+![step2](https://github.com/VanshikaDasari1710/Automated-Attendance-Through-WIFI-by-using-NODE-MCU/assets/100675376/cb6ed46c-ed3e-4b2c-af2d-20d4264ccf49)
+![step3](https://github.com/VanshikaDasari1710/Automated-Attendance-Through-WIFI-by-using-NODE-MCU/assets/100675376/fbab37a1-3f49-4f44-9a56-7f89de0ae78e)
+![step4](https://github.com/VanshikaDasari1710/Automated-Attendance-Through-WIFI-by-using-NODE-MCU/assets/100675376/ed07b513-3ae1-4b74-b4ad-82e780094257)
+![step5](https://github.com/VanshikaDasari1710/Automated-Attendance-Through-WIFI-by-using-NODE-MCU/assets/100675376/3cdc89a9-8fe2-4b6d-983e-495fa60dc7cf)
+![step6](https://github.com/VanshikaDasari1710/Automated-Attendance-Through-WIFI-by-using-NODE-MCU/assets/100675376/cba40adb-413f-4234-a391-8da76e020094)
+
+
+
 
 ## Contributing
 
